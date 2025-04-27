@@ -6,7 +6,7 @@ This project is perfect for showcasing your social media profiles in one place.
 ## 📸 Screenshot
 
  ![Social Links Screenshot](images/screenshot.png)
-*(You can add a real screenshot of your project here!)*
+
 
 ## 🚀 Features
 
